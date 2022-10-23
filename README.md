@@ -6,4 +6,4 @@ Estudo sobre Fundamentos de HTML CSS Java Script
 
 Aprenda Sobre a Ada uma pioneira da programação!
 
-![Pintura: retrato de Ada Lovelace](img/adaPintura.png)
+![Pintura: retrato de Ada Lovelace: mulher branca de perfil com flores no cabelo.](img/adaPintura.png)
